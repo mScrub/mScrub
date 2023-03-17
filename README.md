@@ -16,4 +16,4 @@ You can click the Preview link to take a look at your changes.
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mScrub&theme=ayu-mirage)](https://github.com/mScrub/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mScrub&theme=ayu-mirage)](https://github.com/mScrub/github-readme-stats) -->
