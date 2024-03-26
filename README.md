@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mScrub
-- 👀 I’m currently interested in Full Stack development.
+- 👀 I’m currently interested in Software/Database Development.
 - 🌱 I’m currently learning React, Tailwind and the back-end.
-- 💞️ I’m looking to collaborate on Hackathons
+- 💞️ I’m looking to collaborate in Hackathons.
 - 📫 How to reach me: https://www.linkedin.com/in/felixlieu/
 
 <!---
