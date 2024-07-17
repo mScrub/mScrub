@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mScrub
+- 👋 Hi, I’m Felix Lieu
 - 👀 I’m currently interested in Software/Database Development.
 - 🌱 I’m currently learning Unity and more of the back-end.
 - 💞️ I’m looking to collaborate in Hackathons.
