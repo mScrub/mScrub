@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Felix Lieu
+- 👋 Hi, I’m Felix!
 - 👀 I’m currently interested in Software/Database Development.
 - 🌱 I’m currently learning Unity and more of the back-end.
 - 💞️ I’m looking to collaborate in Hackathons.
