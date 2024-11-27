@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Felix!
-- 👀 I’m currently interested in Data Analyst, Software Development and Database Development roles.
-- 🌱 I’m currently learning more of the back-end.
+- 👀 I’m currently interested in Software Development and Database Development roles.
+- 🌱 I’m currently learning more of the back-end/front-end.
 - 💞️ I’m looking to collaborate in Hackathons.
 - 📫 How to reach me: https://www.linkedin.com/in/felixlieu/
 
